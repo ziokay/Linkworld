@@ -1,0 +1,117 @@
+.brand-logo {
+    width: 90px;
+}
+
+#intro{
+    padding-top: 5%;
+}
+
+#row {
+    padding-bottom: 5%;
+}
+
+#row img {
+    width: 65%;
+    height: 65%;
+}
+
+.parallax-container {
+    background: rgba(0, 0, 0, .39);
+    color: white;
+}
+
+#index-banner h1 {
+    font-size: 5rem;
+}
+
+#intro p {
+    font-size: 1.5rem;
+    font-weight: bold;
+    /* color: grey; */
+}
+
+#production {
+    margin-top: 5%;
+}
+
+#take {
+    margin-bottom: 5%;
+}
+
+#production img {
+    width: 100%;
+    height: 100%;
+}
+
+#member{
+    padding-top: 5%;
+    margin-top: 5%;
+}
+
+#wrap-contactus{
+    height: 100%;
+    padding-bottom: 5%;
+}
+
+#wrap-contactus .parallax{
+    height: 600px;
+}
+
+#contactus{
+    padding-top: 5%;
+    width: 50%;
+}
+
+.form{
+    padding-top: 5%;
+    color: white;
+    /* background: black; */
+    /* opacity: 0.6; */
+}
+
+form{
+    border-radius: 5px;
+    padding: 5% 5%;
+    z-index: 2;
+}
+
+/* .input{
+    background: white;
+    border-radius: 5px;
+} */
+
+#more{
+    padding-top: 5%;
+    padding-bottom: 2%;
+
+}
+
+#more img{
+    width: 25%;
+    height: 25%;
+}
+
+#more h3{
+    padding-bottom: 3%;
+}
+
+#more p{
+    padding-top: 2%;
+}
+
+textarea{
+    resize: none;
+}
+
+#member{
+    padding-bottom: 5%;
+}
+
+#member img{
+    width: 70%;
+    height: 70%;
+}
+
+#member h3{
+    margin-bottom: 5%;
+}
